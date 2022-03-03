@@ -1,4 +1,5 @@
-![yologo_2](https://user-images.githubusercontent.com/71132701/156560660-b99ab513-d541-43ee-8e5a-321716ee9391.png)
+![yologo_2](https://user-images.githubusercontent.com/71132701/156560780-631cfb7d-f8f6-46e0-a6ea-64d724f5498a.png)
+
 
 
 
