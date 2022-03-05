@@ -8,9 +8,13 @@
 # Object Detection
 ## Implementation of Yolo Algorithm: 
  an effictive approach used nowadays by all developers to perfom object detection tasks,
- Here I have implemented it after reading the paper using some helper metrics that are mentioned in the paper like:
+ - Here I have implemented it after reading the paper using some helper metrics that are mentioned in the paper like:
  * Intersection Over Union (IOU) 
  * Non-max Suppression
  * Mean average Precision
  
- Using PyTorch
+- Also implemented the loss function which is:
+
+![image](https://user-images.githubusercontent.com/71132701/156886144-62cc2e5e-4d7f-4a14-a97d-8c950f1e62d8.png)
+
+- And then do the training prcess using PyTorch
